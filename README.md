@@ -1,2 +1,5 @@
 # docker-hadoop-hive-metastore
-metastore
+
+
+docker build --no-cache -t timveil/docker-hadoop-hive-metastore:latest .
+
