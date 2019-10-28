@@ -3,3 +3,5 @@
 
 docker build --no-cache -t timveil/docker-hadoop-hive-metastore:3.1.x .
 
+docker push timveil/docker-hadoop-hive-metastore:3.1.x
+
